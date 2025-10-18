@@ -39,6 +39,6 @@
 
 ## 📫 Contact Me
 
-- ✉️ Email: you@example.com  
+- ✉️ Email: sakib.ahmed.1197@gmail.ocm  
 - 🌐 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
