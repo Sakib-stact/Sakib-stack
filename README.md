@@ -39,5 +39,6 @@
 
 ## 📫 Contact Me
 
-- ✉️ Email: sakib.ahmed.1197@gmail.ocm  
+- ✉️ Email: sakib.ahmed.1197@gmail.ocm
+-  linkedIn: https://www.linkedin.com/in/sakib-ahmed-9a0b83264/
 
