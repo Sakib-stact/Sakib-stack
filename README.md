@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Sakib Ahmed]
 
 🎯 Junior Java Developer at [ATILimited](https://atilimited.net/)  
 💻 Passionate about backend development & writing clean code  
@@ -16,7 +16,7 @@
 
 #### 2. **HR & Payroll Automation Tool**
 - **Language/Tech:** Java, Spring, Oracle DB  
-- **Description:** Automates attendance, leave, and payroll calculation for 500+ employees at ATILimited.
+- **Description:** Automates attendance, leave, and payroll calculation for 100+ employees at ATILimited.
 - **Status:** ✅ Completed (Private repo)
 
 #### 3. **Employee GPS tracker**
